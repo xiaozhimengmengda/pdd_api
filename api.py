@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/3/29 0021 下午 19:40
 # @Author  : xiaozhi！
-# @FileName: pdd_api
 # @Software: PyCharm
 
 
